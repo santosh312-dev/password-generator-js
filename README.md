@@ -1,6 +1,4 @@
-Here is a **ready-to-paste GitHub `README.md`** for your **Random Password Generator project (with images folder support)**:
 
-```md id="pwg83md"
 # 🔐 Random Password Generator
 
 A simple and secure **Random Password Generator** built using **HTML, CSS, and JavaScript**.  
